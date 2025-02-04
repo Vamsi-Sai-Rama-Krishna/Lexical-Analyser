@@ -1,7 +1,7 @@
 # Lexical-Analyser
 
 ## 📌 Project Overview
-This **Lexical Analyzer** project resembels a fundamental part of a compiler,that is responsible for **tokenizing** input source code such as **keywords, identifiers, operators, and literals**. It serves as the first phase in the compilation process.
+This **Lexical Analyzer** project resembles a fundamental part of a compiler,that is responsible for **tokenizing** input source code such as **keywords, identifiers, operators, and literals**. It serves as the first phase in the compilation process.
 The main purpose of this project is to convert source code of ".c" file which is passed through command line argument into specific tokens which are further passed to next stage of compilation.
 
 ## Steps and Sample Result
